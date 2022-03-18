@@ -23,7 +23,7 @@ And finally fill in your Embedily API key (get yours from embedily.com/dashboard
 
 ## Usage
 
-This plugin will basically convert all the videos hosted in your wordpress website and added using the wordpress gutenburg video block to an embedily video player so you can benifit from the player customization, reports and more. 
+This plugin will basically convert all the videos hosted in your wordpress website and added using the wordpress gutenburg video block to an embedily video player so you can benefit from the player customization, reports and more. 
 
 <img src="https://user-images.githubusercontent.com/15586492/128640533-979bc360-416f-45b2-a76b-b91d2fd72606.png"
      alt="Markdown Monster icon"
